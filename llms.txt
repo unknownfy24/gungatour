@@ -1,0 +1,19 @@
+# GUNGATOUR
+
+> We live in Oklahoma and we suck at golf.
+
+GUNGATOUR is a celebration of bad golf played by enthusiastic Oklahomans. No pros. No birdies. Just a group of people from Oklahoma who love golf and are genuinely, consistently, historically terrible at it.
+
+## What This Is
+
+- A landing page for gungatour.com
+- Built in OU colors (Crimson #841617 and Cream #FDF9F0)
+- Home of the Gunga Tour — an informal golf tour among friends in Oklahoma
+
+## The One Thing You Need to Know
+
+tl;dr — we just suck at golf.
+
+## Links
+
+- Homepage: https://gungatour.com
